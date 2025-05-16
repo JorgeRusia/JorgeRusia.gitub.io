@@ -1,0 +1,5 @@
+title: Mi Página de Química Computacional y Español
+description: Artículos y archivos sobre química computacional y español.
+theme: minima
+plugins:
+  - jekyll-feed
